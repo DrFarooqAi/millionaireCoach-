@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+my_offer_*.txt
+.streamlit/secrets.toml
