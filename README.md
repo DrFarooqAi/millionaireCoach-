@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-👉 **[Open millionaireCoach](https://your-app.streamlit.app)** ← replace with your Streamlit Cloud URL after deploying
+👉 **[Open millionaireCoach](https://millionairecoach-drfarooq.streamlit.app/)**
 
 ---
 
